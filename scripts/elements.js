@@ -1,0 +1,10 @@
+export const input  = document.querySelector('.input-name')
+export const button  = document.querySelector('.submit-button')
+export const modal = document.querySelector('.modal')
+export const buttonCloseModal = document.querySelector('.close-modal')
+export const form = document.querySelector('form')
+
+export const grid = document.querySelector('.grid')
+export const timer = document.querySelector('.timer')
+export const endModal = document.querySelector('.end-modal')
+export const playAgain = document.querySelector('.play-again')
